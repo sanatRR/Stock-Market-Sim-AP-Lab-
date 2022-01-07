@@ -1,4 +1,4 @@
-<h1>Advanced Programming Lab ICT 3166)</h1>
+<h1>Advanced Programming Lab (ICT 3166)</h1>
 
 **Stock Market Simulator** 
 
